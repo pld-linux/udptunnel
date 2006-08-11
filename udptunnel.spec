@@ -14,16 +14,18 @@ BuildRequires:	automake
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-UDPTunnel is a small program which can tunnel UDP packets bi-directionally
-over a TCP connection.  Its primary purpose (and original motivation) is to
-allow multi-media conferences to traverse a firewall which allows only
-outgoing TCP connections. Works most probably only with RTP traffic.
+UDPTunnel is a small program which can tunnel UDP packets
+bi-directionally over a TCP connection. Its primary purpose (and
+original motivation) is to allow multi-media conferences to traverse a
+firewall which allows only outgoing TCP connections. Works most
+probably only with RTP traffic.
 
 %description -l pl
-UDPTunnel jest ma³ym programem, który umo¿liwia dwukierunkowe tunelowanie
-pakietów UDP w po³±czeniu TCP. G³ównym celem (i motywacj±) by³o umo¿liwienie
-multimedialnym konferencjom pokonywania firewalli, które pozwala³y jedynie na
-ruch wychodz±cy. Dzia³a najprawdopodobniej tylko z ruchem RTP.
+UDPTunnel jest ma³ym programem, który umo¿liwia dwukierunkowe
+tunelowanie pakietów UDP w po³±czeniu TCP. G³ównym celem (i motywacj±)
+by³o umo¿liwienie multimedialnym konferencjom pokonywania firewalli,
+które pozwala³y jedynie na ruch wychodz±cy. Dzia³a najprawdopodobniej
+tylko z ruchem RTP.
 
 %prep
 %setup -q
