@@ -1,11 +1,10 @@
-
 Summary:	Tunnels UDP over a TCP connection
-Summary(pl):	Tuneluje UDP po po³±czeniu TCP
+Summary(pl):	Tunelowanie UDP po po³±czeniu TCP
 Name:		udptunnel
 Version:	1.1
 Release:	1
 License:	BSD-like
-Group:		Applications
+Group:		Applications/Networking
 Source0:	ftp://ftp.cs.columbia.edu/pub/lennox/udptunnel/%{name}-%{version}.tar.gz
 # Source0-md5:	1e64753a502f2c12386fa0b7baaf50ba
 URL:		http://www1.cs.columbia.edu/~lennox/udptunnel/
