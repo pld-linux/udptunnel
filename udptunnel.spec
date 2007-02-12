@@ -1,5 +1,5 @@
 Summary:	Tunnels UDP over a TCP connection
-Summary(pl):	Tunelowanie UDP po po≥±czeniu TCP
+Summary(pl.UTF-8):   Tunelowanie UDP po po≈ÇƒÖczeniu TCP
 Name:		udptunnel
 Version:	1.1
 Release:	1
@@ -19,11 +19,11 @@ original motivation) is to allow multi-media conferences to traverse a
 firewall which allows only outgoing TCP connections. Works most
 probably only with RTP traffic.
 
-%description -l pl
-UDPTunnel jest ma≥ym programem, ktÛry umoøliwia dwukierunkowe
-tunelowanie pakietÛw UDP w po≥±czeniu TCP. G≥Ûwnym celem (i motywacj±)
-by≥o umoøliwienie multimedialnym konferencjom pokonywania firewalli,
-ktÛre pozwala≥y jedynie na ruch wychodz±cy. Dzia≥a najprawdopodobniej
+%description -l pl.UTF-8
+UDPTunnel jest ma≈Çym programem, kt√≥ry umo≈ºliwia dwukierunkowe
+tunelowanie pakiet√≥w UDP w po≈ÇƒÖczeniu TCP. G≈Ç√≥wnym celem (i motywacjƒÖ)
+by≈Ço umo≈ºliwienie multimedialnym konferencjom pokonywania firewalli,
+kt√≥re pozwala≈Çy jedynie na ruch wychodzƒÖcy. Dzia≈Ça najprawdopodobniej
 tylko z ruchem RTP.
 
 %prep
