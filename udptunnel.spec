@@ -1,5 +1,5 @@
 Summary:	Tunnels UDP over a TCP connection
-Summary(pl.UTF-8):   Tunelowanie UDP po połączeniu TCP
+Summary(pl.UTF-8):	Tunelowanie UDP po połączeniu TCP
 Name:		udptunnel
 Version:	1.1
 Release:	1
